@@ -1,0 +1,11 @@
+{
+  "name": "raw-log",
+  "version": "1.0.0",
+  "description": "Universal plugin to log user messages to raw.log for any LLM/code tool",
+  "main": "raw-log.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["llm", "logging", "plugin", "raw-log"],
+  "license": "MIT"
+}
